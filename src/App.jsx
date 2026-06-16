@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>my react app</h1>
+      <h1>my react APPPPPPPPPP</h1>
       <section id="center">
         <div className="hero">
           <img
